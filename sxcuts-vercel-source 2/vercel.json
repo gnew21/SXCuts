@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/client",
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/option-2",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/option-2/studio",
+      "destination": "/studio",
+      "permanent": true
+    },
+    {
+      "source": "/option-2/visit",
+      "destination": "/visit",
+      "permanent": true
+    }
+  ]
+}

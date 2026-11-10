@@ -1,0 +1,463 @@
+{
+  "checkedAt": "2026-11-11",
+  "rating": 5,
+  "totalReviews": 66,
+  "reviews": [
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25sUVNuQnNSbTlzU0MwME0xaDZOakk1TVhWTlRHYxAB",
+      "name": "Archie Leacy",
+      "rating": 5,
+      "quote": "Absolute goat. Awesome haircuts from this guy💸💪 …",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/105694985820311154030/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25RNWFuRXdYM2xSUmsxa09VNWFaa0ZuTFVveWRsRRAB",
+      "name": "ethan leshetz",
+      "rating": 5,
+      "quote": "Amazing haircuts",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/107414784542697556280/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xObFMweEhkMlZ5VlRGRFdqSXhiR3BXVFdSeWMzYxAB",
+      "name": "Charlie Micklethwait",
+      "rating": 5,
+      "quote": "Excellent trim",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/110104353055635809574/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZlVYVnpMVGxDTlZRMVMybEVkelZ1WkRVNFkxRRAB",
+      "name": "Adrian Chen",
+      "rating": 5,
+      "quote": "Best Barber on the North Shore. Fresh cuts for long and short hair. My boys and I always look sharp after seeing Saul.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/115249977422827013599/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNVVuVlVOM1JmVVZwdFdrMUZRbk5WVUdJeFpsRRAB",
+      "name": "Miguel Rohan",
+      "rating": 5,
+      "quote": "Knows what he’s doing and good quality haircuts",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/108989812575481975783/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tad2JtUjBSVmhtZW14RFgxRldjemxqUTB4Wk9VRRAB",
+      "name": "Josh Sweeney",
+      "rating": 5,
+      "quote": "Great service and atmosphere with Saul really making sure to deliver the cut you want.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/111485832366839813255/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pReFdVbzFWRUphT1hGbFZ6ZEJWa1pVUkZOTlVYYxAB",
+      "name": "Michael jeffrey",
+      "rating": 5,
+      "quote": "Wouldn't wanna go to another barber, Has the best cuts across sydney. Been going for 2 years nearly now. Amazing service always.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/117742195925772992028/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xwT1lUQlpaR1IyY1VwdGRGbEdjbE51UW5wcU4yYxAB",
+      "name": "Cohen Carr",
+      "rating": 5,
+      "quote": "Saul is an exceptionally talented barber. Would recommend.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/117844095915777218401/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25jelNHVmxhM05hYVc5dk1tSjRVVlZDY2pkcFVYYxAB",
+      "name": "Sam Elsmore",
+      "rating": 5,
+      "quote": "He is quick and efficient. Never have had a bad experience. Always on time.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/108279791829364440034/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21NeVpsVk1TVWN3UkhBeVpXVlBiazUwVkUxc1JYYxAB",
+      "name": "Connor Loucas",
+      "rating": 5,
+      "quote": "Gets me looking fresh every single time without fail",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/115945658623117783298/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21kaWMwWnZiRkl6WmtoRWVtbHRVV1JzWm1scGNXYxAB",
+      "name": "Roy Halberstadt",
+      "rating": 5,
+      "quote": "Been a loyal customer of Saul’s for a while now and have never been disappointed with a trim.\nBest barber in St Ives 🤩 …",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/108888683324513997680/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRVIyODBaR3MwUnpZMVVreFNPVkp0WkZGT2NGRRAB",
+      "name": "Luke",
+      "rating": 5,
+      "quote": "Great service 😄✌️ …",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/102731499856077599380/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25jNVIwSjRhVTl1YjFReWIybG5TVk5xYVhCUE5tYxAB",
+      "name": "Gabe Newhouse",
+      "rating": 5,
+      "quote": "Best hair cuts I’ve ever had. Saul is able to listen and do exactly what the customer asks.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/115899217158030883922/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xadlVIUnRlSEUzUmt4emFqSm5SMkZ0Tm5kS2NtYxAB",
+      "name": "Quon Gibb",
+      "rating": 5,
+      "quote": "Saul is an amazing barber and an even better person to be around 👍 …",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/105352336971541576995/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUWQzUkhSbWRIT1hBM09YQlJjM0prWWtOSGNWRRAB",
+      "name": "Tim Furrer",
+      "rating": 5,
+      "quote": "Saul was the best!! So polite and very helpful. He’s very talented. HIGHLY RECOMMEND 5 🌟 🌟🌟🌟🌟🌟🌟. …",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/110210989921192674573/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT201dFZqZEtSVlZFYW1SWlZITkVhMjl0T1haWU1XYxAB",
+      "name": "Tyler Hubersman",
+      "rating": 5,
+      "quote": "Never disappoints with my cuts. Thanks to Logan gore for the recommendation. Will definitely continue to keep coming back",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/100446440860232244815/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNVgyZDFZWGhZU2pNd1lsazJkRVF0WmkxUGFGRRAB",
+      "name": "Austin Zheng",
+      "rating": 5,
+      "quote": "Gives exactly what you ask for and very good scissor work",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/104838331785678134499/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMmFWZE5RMEk0UWpFd1JHdDBRMHd5V1ZkNk9WRRAB",
+      "name": "Lachlan Matsuanag",
+      "rating": 5,
+      "quote": "Great hair cuts always cutting it to what I ask for",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/103070390037408362366/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UlgzbDVaamROWDJSS2RuZzRWak4zZUdWc1UxRRAB",
+      "name": "Alex B",
+      "rating": 5,
+      "quote": "Amazing haircut!",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/117893119033440021592/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25GeVRsWnBhbE5HV0ZCZmNucHpSbnBTVlU1clRYYxAB",
+      "name": "Finn Wilson",
+      "rating": 5,
+      "quote": "Always on time and provides a mint cut as always",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/104726445594660620859/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xdGIyaHBhMkkzYWtOR2JtOUdNMjE1TUdKdlIzYxAB",
+      "name": "Corbin",
+      "rating": 5,
+      "quote": "Saul does a great job cutting hair and doing whatever you ask.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/103952256034652771238/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT210aWJHZzROR1ZPWkU5bFZFWkJVVGxXU1dzdE1GRRAB",
+      "name": "Ishaan",
+      "rating": 5,
+      "quote": "Great haircut - great price",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/116177937810414456420/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNFFVMUJaVmxGTlZaTFoxZHlXRzVEVEhsUllVRRAB",
+      "name": "Ben Talberg",
+      "rating": 5,
+      "quote": "Came mid last year, and now I only come here. Extremely reliable, great prices and always feel as if I am getting my moneys worth.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/117873169959681288643/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMWJrWkVPVUo1ZFRoYVVFaG9WMU5WTUROM01uYxAB",
+      "name": "Myles Kesby",
+      "rating": 5,
+      "quote": "I’ve been going to Saul for cuts for over a year now and I’ve never walked out disappointed.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/118316567339761294747/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21SVU5HcHRha1JxYUVweGJIbGFkRFpyVEhscmVsRRAB",
+      "name": "Lejon Boondocks",
+      "rating": 5,
+      "quote": "Saul is so good at cutting",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/117585555984268479200/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21kNldVOXFVSFF6WlUxMlZXRlVjVzAzTldJMk5HYxAB",
+      "name": "amit_12_l",
+      "rating": 5,
+      "quote": "This is the best hairdresser in the world no doubt about it my guy Saul gets it right every time",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/108492121753855610243/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdFVqa3lVRk5SZDNad2FYTkxVRVV3ZWpFeGNIYxAB",
+      "name": "Josh Marx",
+      "rating": 5,
+      "quote": "Saul is a great barber with a great space.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/110764537920894739421/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWWFsVkphRk5OTWtaaGFrZHVVMlZIYWxadE5uYxAB",
+      "name": "Beau Forrester",
+      "rating": 5,
+      "quote": "Great experience great cuts overall unmatched quality across the northern suburbs",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/114369766228500633008/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xONmJWTjJNSFk1VEZGT1FsTnhiSEpHYmpsQ2JsRRAB",
+      "name": "Elliott Mulae",
+      "rating": 5,
+      "quote": "Best haircut ever great with scissors",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/118248413004003372956/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xamVXTjBZVFJCZUhCdVFtWm5VWFJPUm05V2MwRRAB",
+      "name": "David Newhouse",
+      "rating": 5,
+      "quote": "Saul is the best barber in the business, always a perfect cut! Used him for my wedding and was perfect",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/115793477737761221309/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMVIwTmxTVTE0VVhCSmJVSTNWelkyV0dGbWVHYxAB",
+      "name": "Baxter Montgomery",
+      "rating": 5,
+      "quote": "Great haircuts, great chats, great prices.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/107931779359594872535/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT210U0xWWjJlR0ozWkVka1VuRk5jUzEzWWtwMU5XYxAB",
+      "name": "Alex Travers",
+      "rating": 5,
+      "quote": "Been coming here for 3+ years now, best value for money, top class fades.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/106664998484884210754/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21sQ2VEaERRbUZmVUVKeE4yeFNjblZrZFhsNGRXYxAB",
+      "name": "Lachlan Smith",
+      "rating": 5,
+      "quote": "I’ve been coming here for around a year now and always happy with the cut. Saul is a good guy and the service is great.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/116145826704919666996/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xVek1tRlVXVEpwUW01RVJGVmZMVEYwTTA5YVRYYxAB",
+      "name": "Maximo Gibbs",
+      "rating": 5,
+      "quote": "Saul is the man to go to if you need a fresh cut, and he never disappoints.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/106816910213124219037/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT213MGVrdzJRbTlKUzJsVUxXVlllVk5PYzFoYU9YYxAB",
+      "name": "Ryan Bance",
+      "rating": 5,
+      "quote": "Great attention to detail and gives you exactly what you ask for.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/103404513677892172409/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT214b1lUWllWRWN0YXpodVptWkROMnBDVmt4SGFHYxAB",
+      "name": "Ben",
+      "rating": 5,
+      "quote": "Been going to Saul for the past 3 years, haven’t gone to another barber since, hands down best barber service is immaculate. Highly recommended.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/105986180186348737196/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMWVFVk1SM0ZIVURRdFNVNUVNWEpVWVhwSGRtYxAB",
+      "name": "Callum Marriner",
+      "rating": 5,
+      "quote": "Have been going to Saul for 2+ years now. Hands down the best barber on the North Shore.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/106096326968059252581/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t4eWJYWmtXbWt6UVVOMmRrOTZUMEp0Y0RRMUxWRRAB",
+      "name": "Corey",
+      "rating": 5,
+      "quote": "Always good to have a chat with, very well put together setup. Great customer service and even better haircuts.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/105316726001199496728/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xsb1JuZHRaR2xVVjNKcVFUSmljSGcwTldkNmQzYxAB",
+      "name": "thomas depinto",
+      "rating": 5,
+      "quote": "Great trim, would recommend!",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/108397131415342226897/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa2NtaGlZa1JYWlVST1FtOUlXRE53UlRrelIxRRAB",
+      "name": "Hayden Bridge",
+      "rating": 5,
+      "quote": "Best barber I’ve been to no debate. Always gets the cut exactly how I want it and somehow makes it even better every time.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/102978937006673215368/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT20xRVZUZHpPVGRpZWxnd2VsQk5ZWGcxWDNOSVdFRRAB",
+      "name": "Noah B",
+      "rating": 5,
+      "quote": "Have been going to Saul for the last year or so and have always been very happy.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/113092642267069280910/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5ZlZUVmpjazFRYzIxTmEyMWxTVGh2VVdkcmVVRRAB",
+      "name": "Justin Kim",
+      "rating": 5,
+      "quote": "Definitely gives the best scissor cuts and fades in the North Shore. Really nice atmosphere there too with polite service",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/117980748979513800432/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tWc2JrazNZVmRrWWtSWFFubHhTM0ZHWVRVeGFsRRAB",
+      "name": "Cam Watts",
+      "rating": 5,
+      "quote": "Best barber in the north shore area",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/110598853362863880513/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Nk5YRndMV2hpYm1Od09HcEtWVlJTYURKR04yYxAB",
+      "name": "Liam Kelliher",
+      "rating": 5,
+      "quote": "been going to saul for around 3 years now, always leave with the exact haircut i’ve asked for, friendly guy and great set up,",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/108661419940299974257/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dlpYaHJOSFYzZVVwQmNXOXlOVTVGU2xwaVVXYxAB",
+      "name": "Andre ABLOCK",
+      "rating": 5,
+      "quote": "Been going to Saul for 2yrs now. His haircuts are unmatched to other barbers in the area. The quality for value is unmatched🙏 …",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/102951836477481920221/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xSalRtUlhhbTlIZWpSWVZGSXRWVTh0Y0dodlZVRRAB",
+      "name": "Kingz Editzツ",
+      "rating": 5,
+      "quote": "Great service and customer experience, highly recommend. Great vibes and great setup. Drinks and hair products available as well.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/101655946992616241762/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eVp6Qm9ZbVpTUzA5dGRHeERaRFV5Wm10bVJYYxAB",
+      "name": "Benji Rosenberg",
+      "rating": 5,
+      "quote": "Always consistent",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/115342710947954762315/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2twaWQyUkdhMWMyYkRBeGN6STRaMWxMYlZsdmMwRRAB",
+      "name": "Gus Hurley",
+      "rating": 5,
+      "quote": "Very good experience. Whole shop put together well, welcoming and friendly atmosphere. Trim was exactly what I asked for and on point.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/116990281700793045947/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21GalVrbHZZblIwTFRkaVJEaDZVVTVFTm1sMlpFRRAB",
+      "name": "soren ocarroll",
+      "rating": 5,
+      "quote": "Very nice haircuts and good as yarns",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/107084511314059450854/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWE5reExXVU5MT1RNeFpUbGtlVTVpWVVGNlZrRRAB",
+      "name": "James Archer",
+      "rating": 5,
+      "quote": "Saul’s ability as a barber and also a person has made getting my hair cut such an enjoyable experience.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/112820063116696626302/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2sxR09YbGxSazVrY1VGTVFuZEZVVVl3YURGS05XYxAB",
+      "name": "Loupup Malkin",
+      "rating": 5,
+      "quote": "Great atmosphere",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/115665112216747098676/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2tabE5tUXlXRWhGZVZjdE9GWjZia055VlZsVloxRRAB",
+      "name": "Andrew Liu",
+      "rating": 5,
+      "quote": "Saul is polite and very friendly to talk to.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/102387240695993970041/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT25wSlFsWnRaMlpKWlcwMk4ySlZjazh6Wm5SdlZYYxAB",
+      "name": "Harry Acton",
+      "rating": 5,
+      "quote": "At SX Cuts, I got a fresh burst fade. The barber was on point, making sure every line was crisp.",
+      "excerpt": true,
+      "authorUrl": "https://www.google.com/maps/contrib/101064521366001376579/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT21aSlkyUk1Zbk5IYWw4NVNGYzRUbXgyT1RsWWEwRRAB",
+      "name": "ethan marriner",
+      "rating": 5,
+      "quote": "Amazing hair cut Great place would recommend",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/115766463788083140283/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2sxYWJWVTVhMHRZWkVSSVZFRlpSa3BNVTFsSVdHYxAB",
+      "name": "Zane Fingleson",
+      "rating": 5,
+      "quote": "Best barber with great service. He listens to your requests and cuts exactly how you ask.",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/106577097636556240096/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2xvdFUyUnhZa3RGT1ZseE5YUTFjaTFIWkdwWFJsRRAB",
+      "name": "Andrew Arrowsmith",
+      "rating": 5,
+      "quote": "Great service and great quality",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/100981847592046124834/reviews?hl=en-AU"
+    },
+    {
+      "id": "Ci9DQUlRQUNvZENodHljRjlvT2twVU5FNW1TV3N0UTE5aFRqTlBlRlJRVjJwbE1tYxAB",
+      "name": "Aaron Newhouse",
+      "rating": 5,
+      "quote": "Brilliant service",
+      "excerpt": false,
+      "authorUrl": "https://www.google.com/maps/contrib/106758152720519043079/reviews?hl=en-AU"
+    }
+  ]
+}

@@ -51,7 +51,7 @@ export default function AtelierLight({page='home'}:{page?:'home'|'studio'|'visit
         </section>
         <section className="al-visit-info al-section" aria-label="Appointment and contact information">
           <div><span className="al-kicker">01 / YOUR APPOINTMENT</span><h2>A TIME FOR YOU.</h2><p>Current services, prices and appointment times are available on Square. Every visit starts with a conversation about your cut.</p></div>
-          <div><span className="al-kicker">02 / GET IN TOUCH</span><h2>A QUESTION FOR SAUL?</h2><p>For anything you’d like to ask before your visit.</p><a className="al-visit-email" href={'mailto:'+site.email}>{site.email}</a><a className="al-link" href={site.instagramUrl} target="_blank" rel="noreferrer">INSTAGRAM / @SX.CUTS_ <ArrowUpRight size={18}/></a></div>
+          <div><span className="al-kicker">02 / GET IN TOUCH</span><h2>A QUESTION FOR SAUL?</h2><p>For anything you’d like to ask before your visit.</p><a className="al-visit-email" href={'mailto:'+site.email}>{site.email}</a><a className="al-link" href={site.instagramUrl} target="_blank" rel="noreferrer">INSTAGRAM / @SXCUTS_ <ArrowUpRight size={18}/></a></div>
         </section>
         <section className="al-faq al-section"><div><span className="al-kicker">A FEW THINGS TO KNOW</span><h2>BEFORE<br/>YOU ARRIVE.</h2></div><Accordion>{questions.map(([q,a],i)=><AccordionItem key={q} value={'atelier-faq-'+i}><AccordionTrigger>{q}</AccordionTrigger><AccordionContent>{a}</AccordionContent></AccordionItem>)}</Accordion></section>
       </>}
